@@ -288,7 +288,11 @@ This course is created and delivered by an industry professional with **real-tim
 ### 📌 Note For Learners
 
 Follow On **YouTube And LinkedIn** For:
+
 ✅ Real Production DevOps Explanations
+
 ✅ Career Guidance And Industry Insights
+
 ✅ Course Updates And New Content Announcements
+
 
