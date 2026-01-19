@@ -256,11 +256,6 @@ This course is designed for **working IT professionals** who want to understand 
 
 ---
 
-Here is a **professional, clean, and Udemy-safe version** with **subtle, professional emojis** (no overuse) 👌
-You can **copy-paste directly**.
-
----
-
 ## 👨‍🏫 Instructor & Contact Details
 
 This course is created and delivered by an industry professional with **real-time production experience in AWS and DevOps**, focused on how DevOps is implemented in **enterprise and corporate environments**.
